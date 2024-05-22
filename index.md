@@ -1,8 +1,8 @@
-# CoPLaWS'24 - the 2nd Copenhagen Programming Languages Workshop
+# CoPLaWS 2024 - the 2nd Copenhagen Programming Languages Workshop
 
-CoPLaWS is a series of annual workshops for programming language researchers working in the greater Copenhagen area, open to academics (DTU, KU, ITU, RUC) and researchers in industry and other institutions. The aim is to get together and learn about each other's work. (See [all editions of CoPLaWS](https://coplaws.github.io)).
+[CoPLaWS](https://coplaws.github.io) is a series of annual workshops for programming language researchers working in the greater Copenhagen area, open to academics (DTU, KU, ITU, RUC) and researchers in industry and other institutions. The aim is to get together and learn about each other's work.
 
-**CoPLaWS'24** is the second edition of the workshop. It will take place at the **[DTU Meeting Centre in Lyngby, room M1](https://maps.app.goo.gl/kVfwgY6QWkNMGx5k6)**, on **Friday 23 August 2024**. It will be a full-day event including dinner (at the expense of the participants).
+**[CoPLaWS 2024](https://coplaws.github.io/2024)** is the second edition of the workshop. It will take place at the **[DTU Meeting Centre in Lyngby, room M1](https://maps.app.goo.gl/kVfwgY6QWkNMGx5k6)**, on **Friday 23 August 2024**. It will be a full-day event including dinner (at the expense of the participants).
 
 ## Invited Speaker
 
@@ -22,4 +22,9 @@ Talk proposals should consist of a title and a one-paragraph abstract. No need t
 - **Deadline: 11 August 2024**
 
 ## Organisers
-- Alceste Scalas, Fritz Henglein, Hugo-Andres Lopez-Acosta, Marco Carbone, Morten Rhiger, Rasmus Møgelberg.
+
+Alceste Scalas, Fritz Henglein, Hugo-Andres Lopez-Acosta, Marco Carbone, Morten Rhiger, Rasmus Møgelberg.
+
+## Sponsor
+
+CoPLaWS 2024 is sponsored by [DTU Compute - Section for Software Systems Engineering](https://www.compute.dtu.dk/english/research/research-sections/software-systems-engineering).
