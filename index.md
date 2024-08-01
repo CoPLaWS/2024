@@ -2,7 +2,7 @@
 
 [CoPLaWS](https://coplaws.github.io) is a series of annual workshops for programming language researchers working in the greater Copenhagen area, open to academics (DTU, KU, ITU, RUC, AAU CPH) and researchers in industry and other institutions. The aim is to get together and learn about each other's work.
 
-**[CoPLaWS 2024](https://coplaws.github.io/2024)** is the second edition of the workshop. It will take place at the **[DTU Meeting Centre in Lyngby, room M1](https://maps.app.goo.gl/kVfwgY6QWkNMGx5k6)**, on **Friday 23 August 2024**. It will be a full-day event including dinner (at the expense of the participants).
+**[CoPLaWS 2024](https://coplaws.github.io/2024)** is the second edition of the workshop. It will take place on **Friday 23 August 2024** at the **[DTU Meeting Centre in Lyngby](https://maps.app.goo.gl/kVfwgY6QWkNMGx5k6), room M1**. It will be a full-day event including dinner (at the expense of the participants).
 
 ## Invited Speaker
 
