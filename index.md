@@ -20,6 +20,7 @@ Talk proposals should consist of a title and a one-paragraph abstract. No need t
 
 - **Submission link:** <https://easychair.org/conferences/?conf=coplaws2024>
 - **Submission deadline: 11 August 2024**
+- Notification: 13 August 2024
 
 ## Registration
 
