@@ -63,7 +63,7 @@ To attend the workshop, you will need to register on <https://www.conferencemana
   </tr>
   <tr>
     <td>11:10</td>
-    <td><strong>Raúl Pardo</strong>. <em>Towards a Proof System for Probabilistic Dynamic Logic</em>.</td>
+    <td>Einar Broch Johnsen, Eduard Kamburjan, <strong>Raúl Pardo</strong>, Erik Voogd, and Andrzej Wąsowski. <em>Towards a Proof System for Probabilistic Dynamic Logic</em>.</td>
   </tr>
   <tr>
     <td>11:30</td>
