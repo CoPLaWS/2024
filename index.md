@@ -43,7 +43,7 @@ To attend the workshop, you will need to register on <https://www.conferencemana
   </tr>
   <tr style="background-color: lemonchiffon">
     <td>09:00</td>
-    <td><strong>Invited talk: David Thrane Christiansen. <em>Embedding Languages in Lean</em>.</strong></td>
+    <td><strong>Invited talk: <a href="#invited-speaker">David Thrane Christiansen. <em>Embedding Languages in Lean</em></a>.</strong></td>
   </tr>
   <tr>
     <td>09:50</td>
