@@ -33,7 +33,7 @@ To attend the workshop, you will need to register on <https://www.conferencemana
 ## Programme
 
 <table><tbody>
-  <tr style="background-color: LightSteelBlue">
+  <tr style="color: black; background-color: LightSteelBlue">
     <td>08:40</td>
     <td>Coffee &amp; croissants</td>
   </tr>
@@ -41,7 +41,7 @@ To attend the workshop, you will need to register on <https://www.conferencemana
     <td>08:55</td>
     <td>Welcome to CoPLaWS 2024</td>
   </tr>
-  <tr style="background-color: lemonchiffon">
+  <tr style="color: black; background-color: lemonchiffon">
     <td>09:00</td>
     <td><strong>Invited talk: <a href="#invited-speaker">David Thrane Christiansen. <em>Embedding Languages in Lean</em></a>.</strong></td>
   </tr>
@@ -53,7 +53,7 @@ To attend the workshop, you will need to register on <https://www.conferencemana
     <td>10:10</td>
     <td><strong>Rodrigo Laigner</strong> and Yongluan Zhou. <em>A progress report on AsyncDB: A native database system for asynchronous programs</em>.</td>
   </tr>
-  <tr style="background-color: LightSteelBlue">
+  <tr style="color: black; background-color: LightSteelBlue">
     <td>10:30</td>
     <td>Coffee break</td>
   </tr>
@@ -73,7 +73,7 @@ To attend the workshop, you will need to register on <https://www.conferencemana
     <td>11:50</td>
     <td><strong>Radosław Rowicki</strong>, Adrian Francalanza and Alceste Scalas. <em>Formalising and Verifying Monitors for Decentralised Deadlock Detection</em>.</td>
   </tr>
-  <tr style="background-color: LightSteelBlue">
+  <tr style="color: black; background-color: LightSteelBlue">
     <td>12:10</td>
     <td>Lunch</td>
   </tr>
@@ -93,7 +93,7 @@ To attend the workshop, you will need to register on <https://www.conferencemana
     <td>14:30</td>
     <td><strong>Emil Kristensen</strong>, Marco Carbone and Alessandro Bruni. <em>Gradual Session Typing in Erlang</em>.</td>
   </tr>
-  <tr style="background-color: LightSteelBlue">
+  <tr style="color: black; background-color: LightSteelBlue">
     <td>14:50</td>
     <td>Coffee &amp; cake break</td>
   </tr>
@@ -113,7 +113,7 @@ To attend the workshop, you will need to register on <https://www.conferencemana
     <td>16:05</td>
     <td><strong>Hans Hüttel</strong> and Nicky Ask Lund. <em>A type system for data flow and alias analysis in ReScript</em>.</td>
   </tr>
-  <tr style="background-color: LightSteelBlue">
+  <tr style="color: black; background-color: LightSteelBlue">
     <td>16:25</td>
     <td>Break</td>
   </tr>
@@ -129,11 +129,11 @@ To attend the workshop, you will need to register on <https://www.conferencemana
     <td>17:20</td>
     <td><strong>Maja Hanne Kirkeby</strong>, Michael Kirkedal Thomsen and Ken Friis Larsen. <em>10 years of GCC from an energy perspective</em>.</td>
   </tr>
-  <tr style="background-color: LightSteelBlue">
+  <tr style="color: black; background-color: LightSteelBlue">
     <td>17:40</td>
     <td>End of scientific programme</td>
   </tr>
-  <tr style="background-color: LightSteelBlue">
+  <tr style="color: black; background-color: LightSteelBlue">
     <td>19:00</td>
     <td>Dinner at <a href="https://maps.app.goo.gl/2VbLu3eLXdXeSTF16">Meyers Spisehus in Lyngby</a></td>
   </tr>
