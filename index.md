@@ -59,7 +59,7 @@ To attend the workshop, you will need to register on <https://www.conferencemana
   </tr>
   <tr>
     <td>10:50</td>
-    <td><strong>Oliver Bøving</strong>. <em>The weakest pre-expectation is equals to the expected reward</em>.</td>
+    <td><strong>Oliver Bøving</strong> and Christoph Matheja. <em>The weakest pre-expectation is equals to the expected reward</em>.</td>
   </tr>
   <tr>
     <td>11:10</td>
