@@ -80,43 +80,39 @@ To attend the workshop, you will need to register on <https://www.conferencemana
     <td>Lunch at the <a href="https://maps.app.goo.gl/LxD9EktpLF1gbzcF9">canteen in DTU Building 202</a> </td>
   </tr>
   <tr>
-    <td>13:30</td>
-    <td><strong>Oleks Shturmov</strong> and Michael Kirkedal Thomsen. <em>Dealing with Changes in Behavior of Your Fellow Agents</em>.</td>
-  </tr>
-  <tr>
-    <td>13:50</td>
+    <td>13:40</td>
     <td><strong>Florian Furbach</strong>, Roland Kuhn, Alceste Scalas and Emilio Tuosto. <em>Compositional Verification of Swarm Protocols</em>.</td>
   </tr>
   <tr>
-    <td>14:10</td>
+    <td>14:00</td>
     <td>Philipp Haller, <strong>Ayman Hussein</strong>, Hernan Melgratti, Alceste Scalas and Emilio Tuosto. <em>Fair Join Pattern Matching for Actors</em>.</td>
   </tr>
   <tr>
-    <td>14:30</td>
+    <td>14:20</td>
     <td><strong>Emil Kristensen</strong>, Marco Carbone and Alessandro Bruni. <em>Gradual Session Typing in Erlang</em>.</td>
   </tr>
   <tr style="color: black; background-color: #C8DCEF">
-    <td>14:50</td>
+    <td>14:40</td>
     <td>Coffee &amp; cake break</td>
   </tr>
   <tr>
-    <td>15:05</td>
+    <td>15:00</td>
     <td><strong>John P. Gallagher</strong>. <em>Transforming big-step to small-step semantics by specialisation of a Horn clause interpreter</em>.</td>
   </tr>
   <tr>
-    <td>15:25</td>
+    <td>15:20</td>
     <td><strong>Maaike Zwart</strong>. <em>Monads as (non)-compositional structures</em>.</td>
   </tr>
   <tr>
-    <td>15:45</td>
+    <td>15:40</td>
     <td>Joachim Tilsted Kristensen, Robin Kaarsgaard and <strong>Michael Kirkedal Thomsen</strong>. <em>Jeopardy: An Invertible Functional Programming Language</em>.</td>
   </tr>
   <tr>
-    <td>16:05</td>
+    <td>16:00</td>
     <td><strong>Hans Hüttel</strong> and Nicky Ask Lund. <em>A type system for data flow and alias analysis in ReScript</em>.</td>
   </tr>
   <tr style="color: black; background-color: #C8DCEF">
-    <td>16:25</td>
+    <td>16:20</td>
     <td>Break</td>
   </tr>
   <tr>
