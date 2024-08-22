@@ -24,11 +24,13 @@ Talk proposals should consist of a title and a one-paragraph abstract. No need t
 - Notification: 13 August 2024
 -->
 
+<!--
 ## Registration
 
 To attend the workshop, you will need to register on <https://www.conferencemanager.dk/coplaws2024>.
 
 **Registration deadline: 15 August 2024.**
+-->
 
 ## Programme
 
