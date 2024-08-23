@@ -69,7 +69,7 @@ To attend the workshop, you will need to register on <https://www.conferencemana
   </tr>
   <tr>
     <td>11:30</td>
-    <td><strong>Dawit Tirore</strong>, Jesper Bengtson and Marco Carbone. <em>Multiparty Asynchronous Session Types: A Mechanised proof of Subject Reduction</em>.</td>
+    <td>Dawit Tirore, Jesper Bengtson and <strong>Marco Carbone</strong>. <em>Multiparty Asynchronous Session Types: A Mechanised proof of Subject Reduction</em>.</td>
   </tr>
   <tr>
     <td>11:50</td>
